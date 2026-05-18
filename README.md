@@ -31,7 +31,6 @@ LLaMA's balanced precision/recall makes it significantly more useful in practice
 
 ## Contents
 
-- `dataset/` — preprocessed DuckDuckGo Tracker Radar CSV
 - `tfidf_baseline.ipynb` — TF-IDF pipeline and evaluation
 - `llama_finetuning.ipynb` — LLaMA 8B LoRA fine-tuning and evaluation
 
